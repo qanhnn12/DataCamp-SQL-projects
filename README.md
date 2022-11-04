@@ -20,7 +20,7 @@
 👉 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)!
 
 ### 3. When Was the Golden Age of Video Games?
-* Filter on results of ```GROUP BY``` by using ```HAVING```
+* Use ```HAVING``` to filter on results of ```GROUP BY```
 * Join tables with ```JOIN``` and ```LEFT JOIN```
 👉 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)!
 
