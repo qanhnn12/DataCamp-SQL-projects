@@ -24,4 +24,12 @@ View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/ma
 
 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)!
 
+### 4.Analyzing American Baby Name Trends
+🔑 Key learnings
+* Use ```CASE``` to classify rows given some conditions
+* Use window functions such as ```DENSE_RANK()```, ```SUM()```
+* Join the table using subquery
+* Simplify the code using ```CTE```
+
+View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends)!
 
