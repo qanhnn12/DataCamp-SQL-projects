@@ -35,8 +35,7 @@ View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/ma
 ### 5. Optimizing Online Sports Retail Revenue
 🔑 Key learnings
 * ```CAST``` numeric data
-* Use ```CORR``` to calculate the correlation
-* Truncate data using ```TRUNC```
-* Working with dates, times, and strings
+* Calculate the correlation and median 
+* Work with dates, times, and strings
 
 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Optimizing%20Online%20Sports%20Retail%20Revenue)!
