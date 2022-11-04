@@ -24,7 +24,7 @@ View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/ma
 
 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)!
 
-### 4.Analyzing American Baby Name Trends
+### 4. Analyzing American Baby Name Trends
 🔑 Key learnings
 * Use```CASE``` to add a new column given some conditions
 * Use window functions such as ```DENSE_RANK()```, ```SUM()```
@@ -32,3 +32,11 @@ View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/ma
 
 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Analyzing%20American%20Baby%20Name%20Trends)!
 
+### 5. Optimizing Online Sports Retail Revenue
+🔑 Key learnings
+* ```CAST``` numeric data
+* Use ```CORR``` to calculate the correlation
+* Truncate data using ```TRUNC```
+* Working with dates, times, and strings
+
+View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Optimizing%20Online%20Sports%20Retail%20Revenue)!
