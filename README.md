@@ -34,3 +34,12 @@ View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/ma
 * Work with dates, times, and strings
 
 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Optimizing%20Online%20Sports%20Retail%20Revenue)!
+
+## 📊 Unguided projects
+### 1. Analyzing Unicorn Companies
+
+View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Analyzing%20Unicorn%20Companies)!
+
+### 2. Analyzing Motorcycle Part Sales
+
+View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/Analyzing%20Motorcycle%20Part%20Sales)!
