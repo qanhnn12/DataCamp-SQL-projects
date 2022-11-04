@@ -22,6 +22,7 @@
 ### 3. When Was the Golden Age of Video Games?
 * Use ```HAVING``` to filter on results of ```GROUP BY```
 * Join tables with ```JOIN``` and ```LEFT JOIN```
+
 👉 View my project [here](https://github.com/qanhnn12/DataCamp-SQL-projects/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games)!
 
 
